@@ -1,6 +1,6 @@
 ## <h1>Application Spring Boot ElasticSearch</h1>
 ***
-<img src="https://spring.io/img/og-spring.png" alt="drawing" height="280px"/>
+<img src="https://blog.mossroy.fr/wp-content/uploads/2019/09/spring-boot-logo.png" alt="drawing" height="280px"/>
 
 ## Informations Générales
 ***
