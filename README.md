@@ -36,7 +36,7 @@ Le service est accessible sur http://localhost:8088
 
 ## FAQs
 ***
-**Présentation de la Spring Clioud Gateway**
+**Présentation de la Spring Cloud Gateway**
 * https://spring.io/projects/spring-cloud-gateway
 
 
